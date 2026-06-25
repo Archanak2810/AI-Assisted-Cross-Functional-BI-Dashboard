@@ -10,4 +10,6 @@ The dashboard follows an applied design-and-development approach:
 6. Validate database connectivity, row counts, KPI reasonableness, filters, chart rendering, and report download.
 7. Deploy through GitHub and Streamlit Cloud.
 
-The methodology diagram is available in `assets/figures/development_methodology.png`.
+# Methodology diagram 
+<img width="1448" height="1086" alt="development_methodology" src="https://github.com/user-attachments/assets/480ab6c7-762e-43a1-8a9b-73abb7a49230" />
+
